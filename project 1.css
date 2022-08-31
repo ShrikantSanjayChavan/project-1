@@ -1,0 +1,170 @@
+
+
+
+
+
+  * {
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+ }
+
+ .navbar-container{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 50px;
+    cursor: pointer;
+ }
+
+ .list {
+        
+    display: flex;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: poppins;
+ }
+
+ .list-item{
+
+     list-style: none;
+     margin-left: 110px;
+ }
+
+
+ .button-group{
+    display: flex;
+    align-items: center;
+    border: black;
+    border-radius:10px;
+ }
+ 
+ .nav-button{
+
+    margin-left: 17px;
+    color: rgb(160, 160, 160);
+    background-color: white;
+    width: 130px;
+    padding: 8px;
+    border-radius: 15px;
+    border-color: black;
+ }
+
+ .square {
+
+        position: relative;
+        left: 316px;
+        top: 450px;
+ }
+
+ .star {
+
+      position: relative;
+      left: 1310px;
+      top: -275px;
+ }
+
+ .globe { 
+
+   position: relative;
+   left: 600px;
+   top: -280px;
+ }
+
+ .person {
+
+    position: relative;
+    left: 100px;
+    top: -330px;
+ }
+
+ .hero-container-right {
+
+     position: relative;
+     left: 810px;
+     top: -970px;
+ }
+
+ .hero-heading {
+
+     font-family: poppins;
+     font-size: 80px;
+     font-style: normal;
+     margin-top: 60px;
+ }
+
+
+
+ .hero-description { 
+
+    font-style: italic;
+    color: gray;
+    width: 800px;
+    height: 50px;
+    font-size: 23px;
+    position: relative;
+    left: 117px;
+    top: 40px;
+ }
+
+  .last {
+
+     position: relative;
+     left: 222px;
+  }
+
+ .icons {
+
+    position: relative;
+    top: 310px;
+    left: 450px; 
+ }
+
+
+ .contact-heading {
+
+   position: relative;
+   top: 310px;
+   left: 500px
+   
+ }
+
+ .button-email {
+
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    color: gray;
+    
+    position: relative;
+    left: 400px;
+    top: 240px;
+    cursor: pointer;
+ }
+
+
+ .button-join {
+
+   position: relative;
+   left: 410px;
+   top: 240px;
+   width: 100px;
+   height: 30px;
+   border-radius: 6px;
+   background-color: black;
+   color: white;
+   cursor: pointer;
+ }
+
+ .star2 {
+
+  position: relative;
+  left: 330px;
+  top: 400px;
+  resize: 6px,6px;
+ }
+    
